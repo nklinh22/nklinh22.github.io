@@ -2,7 +2,7 @@
 title: "Blog"
 permalink: /blog/
 header:
-	image: 'images/blog.jpeg'
+	image: '/images/blog.jpg'
 
 ---
 FUN FACT
