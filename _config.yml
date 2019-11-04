@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Linh Nguyen"
+title                    : "Khanh Linh Nguyen"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Khanh Linh Nguyen"
@@ -107,15 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Linh Nguyen"
+  name             : "Khanh Linh Nguyen"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Portfolio"
+  bio              : "Aspiring Data Analytics Professional"
   location         : "Singapore"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:nklinh2210@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://public.tableau.com/profile/nklinh#!/"
