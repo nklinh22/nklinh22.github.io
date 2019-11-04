@@ -88,8 +88,8 @@ author:
   avatar           : "/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Aspiring Data Analytics Profession"
   location         : "Singapore"
-  email            :
-  uri              :
+  email            : 'nklinh2210@gmail.com'
+  uri              : "https://public.tableau.com/profile/nklinh#!/"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
