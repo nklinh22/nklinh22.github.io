@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Khanh Linh Nguyen"
+title                    : "Linh Nguyen"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Khanh Linh Nguyen"
+name                     : "Linh Nguyen"
 description              : "Data Portfolio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,15 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Khanh Linh Nguyen"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Linh Nguyen"
+  avatar           : "images/profile.jpeg"
   bio              : "Aspiring Data Analytics Professional"
   location         : "Singapore"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:nklinh2210@email.com
+      #url: mailto:nklinh2210@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://public.tableau.com/profile/nklinh#!/"
@@ -301,6 +301,17 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+
+      # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+
 
 
 
