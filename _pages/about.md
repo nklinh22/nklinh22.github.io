@@ -2,9 +2,9 @@
 title: "About"
 permalink: /about/
 header:
-	image: '/images/profile.jpeg'
-
+	image: "/images/profile.jpeg"
 ---
+
 
 I'm current business data analyst at Visa Inc Singapore. I have deep passion in data analytics and data science projects which was demonstrated in various projects that I have completed.
 I excel at exploratory data analysis, data visualisation, machine learning and builing statistical modelling for business decisions.
