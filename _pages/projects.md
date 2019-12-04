@@ -26,4 +26,7 @@ Predicting Airbnb House Price  [link](https://github.com/nklinh22/predict-airbnb
 Reddit API Scraping [link](https://github.com/nklinh22/Reddit-API-Scraping) 
 
 
+Spam Filter By Naives Bayes [link](https://github.com/nklinh22/Spam-Filter-Using-Naive-Bayes)
+
+
 More can be found at https://github.com/nklinh22?tab=repositories
